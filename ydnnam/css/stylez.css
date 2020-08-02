@@ -1,0 +1,23 @@
+body {
+  width: 100%;
+  margin: 0px;
+}
+html {
+  background-color: #515FED;
+  background: linear-gradient(to bottom right, #515FED 30%, #764AF3 70%);
+  min-height: 100%;
+  color: white;
+}
+
+.title {
+  position: relative;
+  text-align: center;
+  font-size: 23px;
+  font-family: 'Abel';
+  letter-spacing: 1px;
+  top:
+  align-items: center;
+}
+.masthead {
+  margin-bottom: 2rem;
+}
